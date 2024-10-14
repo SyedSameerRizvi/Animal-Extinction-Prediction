@@ -2,7 +2,7 @@
 
 This project is focused on building a machine learning model to predict the risk of species extinction. The model leverages various features (e.g., habitat, population size, human interaction) to classify species as endangered or not. It includes data preprocessing, model training, evaluation, and making custom predictions.
 
-**You can find the Dataset here: (Animal Extinction Dataset)[https://www.kaggle.com/datasets/umeradnaan/extinction-of-a-species-data/data]**
+**You can find the Dataset here:** [Animal Extinction Dataset](https://www.kaggle.com/datasets/umeradnaan/extinction-of-a-species-data/data)
 
 ## Table of Contents
 
